@@ -1,0 +1,9 @@
+# Ignore data and models
+simpsons-cnn/data/
+simpsons-cnn/models/
+simpsons-cnn/outputs/
+
+# Ignore checkpoints or training artifacts
+*.h5
+*.ckpt
+*.log
