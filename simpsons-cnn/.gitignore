@@ -7,3 +7,4 @@ data/
 *.h5
 *.ckpt
 *.log
+best_model.keras
