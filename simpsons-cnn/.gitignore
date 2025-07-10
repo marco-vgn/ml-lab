@@ -8,6 +8,5 @@ models/
 *.h5
 *.ckpt
 *.log
-*.keras
 .DS_Store
 best_model.keras
