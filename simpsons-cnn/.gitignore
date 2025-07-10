@@ -2,7 +2,7 @@
 simpsons-cnn/data/
 simpsons-cnn/models/
 simpsons-cnn/outputs/
-
+data/
 # Ignore checkpoints or training artifacts
 *.h5
 *.ckpt
