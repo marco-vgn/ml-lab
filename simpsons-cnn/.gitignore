@@ -3,8 +3,11 @@ simpsons-cnn/data/
 simpsons-cnn/models/
 simpsons-cnn/outputs/
 data/
+models/
 # Ignore checkpoints or training artifacts
 *.h5
 *.ckpt
 *.log
+*.keras
+.DS_Store
 best_model.keras
